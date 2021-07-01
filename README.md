@@ -3,10 +3,10 @@
 Object Detection task on covered Faces.
 
 This repository contains:
-- environment.yml - Required packages to be installed.
-- Report.pdf - our submitted report.
+- *environment.yml* - Required packages to be installed.
+- *Report.pdf* - our submitted report.
 - *predict.py* - Performs the prediction task on given data.
-- *train.py - Thr training process of the Faster R-CNN model. this file also contains the training process for our first approach (unused).
+- *train.py* - Thr training process of the Faster R-CNN model. this file also contains the training process for our first approach (unused).
 - *transforms.py* - Contains functions for pre-processing the images.
 - *utils.py* - Contains utilities.
 - *engine.py* - Contains functions for training the model for one epoch and for evaluating its performence.
